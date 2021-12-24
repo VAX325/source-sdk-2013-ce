@@ -81,3 +81,9 @@ sp/src/utils/sapi51/
 # Ignore various Linux vpc products
 compile_commands.json
 *.project
+
+mp\src\game\client\Release_mod_sdk2013ce
+mp\src\game\client\Debug_mod_sdk2013ce
+
+mp\src\game\server\Release_mod_sdk2013ce
+mp\src\game\server\Debug_mod_sdk2013ce
