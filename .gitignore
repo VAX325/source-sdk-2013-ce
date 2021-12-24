@@ -87,3 +87,13 @@ mp\src\game\client\Debug_mod_sdk2013ce
 
 mp\src\game\server\Release_mod_sdk2013ce
 mp\src\game\server\Debug_mod_sdk2013ce
+
+mp/game/mod_sdk2013ce/voice_ban.dt
+mp/game/mod_sdk2013ce/stats.txt
+
+mp/game/mod_sdk2013ce/cfg/server_blacklist.txt
+
+*.cache
+*.ain
+
+mp/game/mod_sdk2013ce/user_custom
